@@ -6,7 +6,7 @@
 
 ## Install PreRequisites
 
-Assuming you already have python installed (if not, install python via `devbox` to avoid polluting your local environment).
+Assuming you already have python installed (if not, install python via `devbox` to avoid polluting your local environment). 
 
 Install the lib:
 ```bash
